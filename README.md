@@ -1,4 +1,4 @@
-# 🌟MindfulBot: Guided Meditation Chatbot
+# 🌟BreathBot: Guided Meditation Chatbot 
 
  *🔍Table of Contents*
 1. [Problem Statement](#problem-statement)
