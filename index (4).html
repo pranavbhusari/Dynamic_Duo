@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MindfulBot</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Top Navigation Bar -->
+    <div class="top-bar">
+      <div class="logo">
+        <span class="logo-icon">🧘‍♂️</span>
+        <span>MindfulBot</span>
+      </div>
+      <div class="user-menu">
+        <div class="user-avatar">U</div>
+        <span>User123</span>
+      </div>
+    </div>
+
+    <!-- Tabs Navigation -->
+    <div class="tabs">
+      <div class="tab active" onclick="loadHome()">Home</div>
+      <div class="tab" onclick="loadMeditations()">Meditation</div>
+      <div class="tab" onclick="loadBreathing()">Breathing</div>
+      <div class="tab" onclick="loadMoodTracker()">Mood</div>
+      <div class="tab" onclick="loadAnalytics()">Analytics</div>
+      <div class="tab" onclick="loadProfile()">Profile</div>
+    </div>
+
+    <!-- Main Content -->
+    <div id="content">
+      <!-- Home content will be loaded here dynamically -->
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
