@@ -1,1 +1,3 @@
-# Dynamic_Duo
+Problem Statement:
+In today's fast-paced world, stress and anxiety have become prevalent issues affecting mental well-being. Many individuals struggle to maintain a consistent meditation or breathing exercise routine due to a lack of guidance and personalization. Existing solutions often rely on static scripts, failing to adapt to users' emotions and changing moods. To address this, we propose an AI-powered chatbot that provides dynamic and interactive guided meditation, breathing exercises, and mood tracking. By leveraging Flask for backend processing and Streamlit for an intuitive user interface, the chatbot will offer personalized recommendations based on real-time mood analysis, enhancing user engagement and mental wellness.
+
